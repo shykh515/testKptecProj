@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572234654752",
+    "project_id": "kptac-69644",
+    "storage_bucket": "kptac-69644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572234654752:android:513221d521c27cb5394845",
+        "android_client_info": {
+          "package_name": "com.testkptecproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1k90hI_NCCd2fC8_qkv9RJb7rTqRxL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
